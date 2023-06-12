@@ -14,7 +14,7 @@ C is a powerful and widely-used programming language known for its efficiency an
 
 ## Getting Started
 To get started with the programs in this repository, follow these steps:
-1. Install a C compiler such as GCC (GNU Compiler Collection) on your local machine.
+1. Install a C compiler such as ( DEV C++ ) on your local machine.
 2. Clone or download the repository to your local machine.
 3. Open the program files in a text editor or an Integrated Development Environment (IDE).
 4. Compile the programs using the C compiler.
